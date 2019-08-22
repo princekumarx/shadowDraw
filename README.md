@@ -5,7 +5,6 @@ Get perfect shadows every time for images
 `npm install shadowDraw --save`
 
 then...
-```
 
 import { shadowDraw } from 'shadowDraw';
 
@@ -16,7 +15,7 @@ shadowDraw({
     height:100
 });
 
-##options 
+## options 
 
 ShadowDraw supports 4 options 
 
