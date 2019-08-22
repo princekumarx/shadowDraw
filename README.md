@@ -20,6 +20,7 @@ shadowDraw({
 ShadowDraw supports 4 options 
 
 * *shadow_type - _hard | soft_(default)* *
-* *padding - boolean_( 1em default)* ** 
-*width - number | 100 ( default)* ** 
-*height - number | 100 (default)* *
+* *padding - boolean_( 1em default)* *
+
+* *width - number | 100 ( default)* *
+* *height - number | 100 (default)* *
